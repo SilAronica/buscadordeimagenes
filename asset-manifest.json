@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buscadordeimagenes/static/css/main.e6c13ad2.css",
+    "main.js": "/buscadordeimagenes/static/js/main.c3b76eca.js",
+    "index.html": "/buscadordeimagenes/index.html",
+    "main.e6c13ad2.css.map": "/buscadordeimagenes/static/css/main.e6c13ad2.css.map",
+    "main.c3b76eca.js.map": "/buscadordeimagenes/static/js/main.c3b76eca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c3b76eca.js"
+  ]
+}
